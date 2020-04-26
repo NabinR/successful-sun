@@ -8,11 +8,11 @@ params:
     logo_img: images/logo.png
     has_nav: false
     nav_links:
-    - label: Store
-      url: Store
-      primary: true
     - label: Home
       url: "/"
+    - label: Store
+      url: "/store"
+      primary: true
     - label: Features
       url: "/features"
     - label: Pricing
