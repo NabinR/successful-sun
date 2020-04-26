@@ -9,11 +9,6 @@ sections:
   label: Site Configuration
   templates:
   - config
-- type: document
-  path: content/blog/_index.md
-  label: Blog
-  templates:
-  - blog
 - type: directory
   path: content
   label: Page
@@ -22,6 +17,11 @@ sections:
   exclude: "{posts/**,blog/_index.md}"
   templates:
   - page
+- type: document
+  path: content/blog/_index.md
+  label: Blog
+  templates:
+  - blog
 - type: directory
   path: content/posts
   label: Post
