@@ -25,6 +25,7 @@ fields:
     required: true
 pages:
 - content/about.md
+- content/shop.html
 - content/signup.md
 - content/store.md
 - content/style-guide.md
