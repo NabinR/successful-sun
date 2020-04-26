@@ -1,5 +1,4 @@
 +++
-draft = true
 image = ""
 layout = "page"
 subtitle = ""
