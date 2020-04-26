@@ -8,6 +8,9 @@ params:
     logo_img: images/logo.png
     has_nav: false
     nav_links:
+    - label: Store
+      url: Store
+      primary: true
     - label: Home
       url: "/"
     - label: Features
