@@ -2,7 +2,7 @@
 title: Stackbit Azimuth Theme
 baseURL: "/"
 params:
-  palette: green
+  palette: orange
   header:
     title: Azimuth
     logo_img: images/logo.png
